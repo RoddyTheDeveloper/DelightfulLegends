@@ -10,7 +10,7 @@ Delightful Legends is a custom Minecraft modpack designed for **Minecraft 1.20.1
 1. Download and install **Minecraft** and **Forge** for version **1.20.1**.
 2. Download the **Delightful Legends** modpack ZIP file from Modrinth.
 3. Extract the ZIP file into the **mods** folder of your Minecraft directory.
-4. Launch Minecraft using the NeoForge profile.
+4. Launch Minecraft using the Forge profile.
 
 ## Mod List
 - Embeddium
@@ -30,8 +30,9 @@ Delightful Legends is a custom Minecraft modpack designed for **Minecraft 1.20.1
 - Report any bugs you encounter on the Modrinth page.
 
 ## Credits
-Thanks to all the mod developers who made this pack possible! Special thanks to [your friend’s name] for suggesting the mods.
+Thanks to all the mod developers who made this pack possible! Special thanks to [RayBlood & Razer] for suggesting the mods.
 
 ## Contact Information
 Feel free to reach out if you have any questions or feedback: [Your email or Discord handle]
 
+## If needed help from me, *My Discord handle* is warden_afton
