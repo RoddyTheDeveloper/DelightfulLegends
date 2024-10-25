@@ -7,7 +7,7 @@ Mod pack with everything that should be helping everyone or anyone who tried to 
 Delightful Legends is a custom Minecraft modpack designed for **Minecraft 1.20.1**. It combines a variety of mods to enhance gameplay, creativity, and exploration. Whether you're into building, crafting, or adventuring, this pack has something for everyone!
 
 ## Installation Instructions
-1. Download and install **Minecraft** and **NeoForge** for version **1.20.1**.
+1. Download and install **Minecraft** and **Forge** for version **1.20.1**.
 2. Download the **Delightful Legends** modpack ZIP file from Modrinth.
 3. Extract the ZIP file into the **mods** folder of your Minecraft directory.
 4. Launch Minecraft using the NeoForge profile.
